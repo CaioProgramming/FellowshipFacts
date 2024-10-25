@@ -47,7 +47,22 @@
             "author": "J.R.R. Tolkien",
             "publishDate": "11/11/1954",
             "pages": 327,
-            "cover":"https://upload.wikimedia.org/wikipedia/en/a/a1/The_Two_Towers_cover.gif"
+            "cover":"https://upload.wikimedia.org/wikipedia/en/a/a1/The_Two_Towers_cover.gif",
+            "production": [
+                {
+                    "role": "Author",
+                    "name": "J.R.R. Tolkien"
+                },
+                {
+                    "role": "Illustrator",
+                    "name": "Michael Hague"
+                },
+                {
+                    "role": "Illustrator",
+                    "name": "Jemima Catlin"
+                }
+
+            ]
         },
         {
             "title": "The Return of the King",
