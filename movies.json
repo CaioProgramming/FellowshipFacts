@@ -1,0 +1,59 @@
+{
+   "movies": [
+    {
+        "title": "The Hobbit: An Unexpected Journey",
+        "description": "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug.",
+        "year": 2012,
+        "duration": 169,
+        "rate": "PG-13",
+        "metaScore": 58,
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_.jpg"   
+    },
+    {
+        "title": "The Hobbit: The Desolation of Smaug",
+        "description": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.",
+        "year": 2013,
+        "duration": 161,
+        "rate": "PG-13",
+        "metaScore": 66,
+        "cover": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_.jpg"
+    },
+    {
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "description": "Bilbo and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
+        "year": 2014,
+        "duration": 144,
+        "rate": "R",
+        "metaScore": 59,
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTYzNDE3OTQ3MF5BMl5BanBnXkFtZTgwODczMTg4MjE@._V1_FMjpg_UY474_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "year": 2001,
+        "duration": 178,
+        "rate": "PG-13",
+        "metaScore": 92,
+        "cover":"https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "year": 2002,
+        "duration": 179,
+        "rate": "PG-13",
+        "metaScore": 87,
+        "cover": "https://m.media-amazon.com/images/M/MV5BNDFmMTM4YzItY2QyMi00OTc5LTlhZmYtZGJkYWYzMTM2Mjc5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "year": 2003,
+        "duration": 201,
+        "rate": "PG-13",
+        "metaScore": 94,
+        "cover":"https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg"
+
+    }
+]
+}

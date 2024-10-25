@@ -1,0 +1,39 @@
+{
+    "books": [
+        {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "publishData": "21/09/1937",
+            "pages": 366,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg"
+        },
+        {
+            "title": "The Fellowship of the Ring",
+            "author": "J.R.R. Tolkien",
+            "publishData": "29/07/1954",
+            "pages": 398,
+            "cover": "https://cdn8.openculture.com/wp-content/uploads/2013/02/The-Fellowship-Of-The-Ring-Book-Cover-by-JRR-Tolkien_1-480.jpg"
+        },
+        {
+            "title": "The Two Towers",
+            "author": "J.R.R. Tolkien",
+            "publishData": "11/11/1954",
+            "pages": 327,
+            "cover":"https://upload.wikimedia.org/wikipedia/en/a/a1/The_Two_Towers_cover.gif"
+        },
+        {
+            "title": "The Return of the King",
+            "author": "J.R.R. Tolkien",
+            "publishData": "20/10/1955",
+            "pages": 416,
+            "cover": "https://upload.wikimedia.org/wikipedia/en/1/11/The_Return_of_the_King_cover.gif"
+        },
+        {
+            "title": "The Silmarillion",
+            "author": "J.R.R. Tolkien",
+            "publishData": "15/09/1977",
+            "pages": 365,
+            "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/Silmarillion.png"
+        }
+    ]
+}
