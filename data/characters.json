@@ -2,6 +2,7 @@
   "species": [
     {
       "name": "Elves",
+      "image": "https://i.ibb.co/2vmVP3B/DALL-E-2024-10-28-12-26-57-A-majestic-elf-in-a-medieval-art-style-portrayed-with-intricate-detailing.webp",
       "description": "Immortal beings of beauty and wisdom, skilled in arts and magic.",
       "subspecies": [
         "Vanyar",
@@ -13,6 +14,7 @@
     },
     {
       "name": "Men",
+      "image": "https://i.ibb.co/hB1tkwQ/DALL-E-2024-10-28-17-00-37-A-noble-man-from-Middle-earth-walking-gracefully-through-an-expansive-gra.webp",
       "description": "Mortal beings, with varied cultures and abilities.",
       "subspecies": [
         "Numenoreans",
@@ -25,6 +27,7 @@
     },
     {
       "name": "Dwarves",
+      "image": "https://i.ibb.co/LJqYH4x/DALL-E-2024-10-28-17-04-18-A-sturdy-dwarf-from-Middle-earth-seated-by-a-glowing-campfire-in-the-midd.webp",
       "description": "Short, stout, and hardy craftsmen known for their skills in mining and smithing.",
       "subspecies": [
         "Longbeards",

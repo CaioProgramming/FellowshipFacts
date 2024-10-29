@@ -5,6 +5,7 @@
             "publishDate": "21/09/1937",
             "pages": 366,
             "cover": "https://m.media-amazon.com/images/I/81mCE+uclxL._UF894,1000_QL80_.jpg",
+            "description": "Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely travelling further than the pantry of his hobbit-hole in Bag End. But his contentment is disturbed when the wizard, Gandalf, and a company of thirteen dwarves arrive on his doorstep one day, to whisk him away on a journey ‘there and back again’. They have a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon…",
             "production": [
                 {
                     "role": "Author",
@@ -23,6 +24,7 @@
         },
         {
             "title": "The Fellowship of the Ring",
+            "description": "The Fellowship of the Ring is the first of three volumes of the epic novel The Lord of the Rings by the English author J.R.R. Tolkien. It is followed by The Two Towers and The Return of the King. It takes place in the fictional universe of Middle-earth. It was originally published on 29 July 1954 in the United Kingdom.",
             "production": [
                 {
                     "role": "Author",
@@ -44,6 +46,7 @@
         },
         {
             "title": "The Two Towers",
+            "description": "The Two Towers is the second volume of J.R.R. Tolkien's high fantasy novel The Lord of the Rings. It is preceded by The Fellowship of the Ring and followed by The Return of the King. Originally published on 11 November 1954.",
             "author": "J.R.R. Tolkien",
             "publishDate": "11/11/1954",
             "pages": 327,
@@ -66,6 +69,7 @@
         },
         {
             "title": "The Return of the King",
+            "description": "The Return of the King is the third and final volume of J.R.R. Tolkien's The Lord of the Rings, following The Fellowship of the Ring and The Two Towers. It was published on 20 October 1955 in the UK.",
             "production": [
                 {
                     "role": "Author",
@@ -87,6 +91,7 @@
         },
         {
             "title": "The Silmarillion",
+            "description": "The Silmarillion is a collection of mythopoeic works by English writer J. R. R. Tolkien, edited and published posthumously by his son, Christopher Tolkien, in 1977, with assistance from Guy Gavriel Kay. It is the primary and essential source material for Tolkien's Middle-earth legendarium.",
             "production": [
                 {
                     "role": "Author",
