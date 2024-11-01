@@ -74,12 +74,7 @@
     {
       "name": "Maiar",
       "description": "Powerful spirits of divine origin, often serving the Valar.",
-      "examples": [
-        "Gandalf",
-        "Saruman",
-        "Sauron",
-        "Balrogs"
-      ]
+      "subspecies": []
     },
     {
       "name": "Valar",
