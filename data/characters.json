@@ -27,7 +27,7 @@
     },
     {
       "name": "Dwarves",
-      "image": "https://i.imgur.com/5GrPkne.jpeg",
+      "image": "https://i.imgur.com/iwOLaWs.jpeg",
       "description": "Short, stout, and hardy craftsmen known for their skills in mining and smithing.",
       "subspecies": [
         "Longbeards",
@@ -41,7 +41,7 @@
     },
     {
       "name": "Hobbits",
-      "ïmage": "https://i.imgur.com/zFuHa7R.jpeg",
+      "ïmage": "https://i.imgur.com/sd5tET5.jpeg",
       "description": "Small, peaceful folk known for their love of comfort and food.",
       "subspecies": [
         "Harfoots",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Orcs",
-      "image": "https://i.imgur.com/DGWPOui.jpeg",
+      "image": "https://i.imgur.com/4drGLWg.jpeg",
       "description": "Corrupted and twisted beings bred for evil purposes, often serving dark lords.",
       "subspecies": [
         "Uruk-hai",
@@ -61,12 +61,12 @@
     },
     {
       "name": "Ents",
-      "image": "https://i.imgur.com/3IUpz4r.jpeg",
+      "image": "https://i.imgur.com/coxMzZS.jpeg",
       "description": "Tree-like guardians of forests, ancient beings with slow thoughts and great strength."
     },
     {
       "name": "Trolls",
-      "image": "https://i.imgur.com/YZ7Vo8Q.jpeg",
+      "image": "https://i.imgur.com/o6B1bSu.jpeg",
       "description": "Large, brutish creatures with great strength but little intelligence.",
       "subspecies": [
         "Cave Trolls",
@@ -77,17 +77,18 @@
     },
     {
       "name": "Maiar",
-      "image":"https://i.imgur.com/sNUtJEo.jpeg",
+      "image":"https://i.imgur.com/lIIWpgL.jpeg",
       "description": "Powerful spirits of divine origin, often serving the Valar.",
       "subspecies": []
     },
     {
       "name": "Valar",
-      "description": "Deities and stewards of the world, shaping its destiny and natural laws."
+      "description": "Deities and stewards of the world, shaping its destiny and natural laws.",
+      "image": "https://i.imgur.com/gP91rCW.jpeg"
     },
     {
       "name": "Dragons",
-      "image": "https://i.imgur.com/OmnXcVS.jpeg",
+      "image": "https://i.imgur.com/IIWklyZ.jpeg",
       "description": "Gigantic, intelligent creatures, usually greedy and powerful.",
       "subspecies": [
         "Fire-drakes",
@@ -96,17 +97,17 @@
     },
     {
       "name": "Eagles",
-      "image": "https://i.imgur.com/TuPEbWu.jpeg",
+      "image": "https://i.imgur.com/idJl7Bs.jpeg",
       "description": "Great, intelligent birds serving as agents of the Valar."
     },
     {
       "name": "Wargs",
-      "image": "https://i.imgur.com/Jloz5zl.jpeg",
+      "image": "https://i.imgur.com/nbz1jVO.jpeg",
       "description": "Intelligent and evil wolves, often allied with Orcs."
     },
     {
       "name": "Spirits",
-      "image": "https://i.imgur.com/LMo5ULu.jpeg",
+      "image": "https://i.imgur.com/fngreoz.jpeg",
       "description": "Incorporeal entities that can haunt, possess, or influence the living.",
       "examples": [
         "Barrow-wights",
