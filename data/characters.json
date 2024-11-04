@@ -67,7 +67,7 @@
     {
       "name": "Ents",
       "color": "#3FA34D",
-      "image": "https://i.imgur.com/coxMzZS.jpeg",
+      "image": "https://i.imgur.com/FAlr1oa.jpeg",
       "description": "Tree-like guardians of forests, ancient beings with slow thoughts and great strength."
     },
     {
@@ -130,13 +130,13 @@
     {
       "name": "Giants",
       "color": "#FF8C00",
-      "image": "https://i.imgur.com/T5GM6Zw.jpeg",
+      "image": "https://i.imgur.com/Qf6IUoM.jpeg",
       "description": "Mysterious and rarely mentioned enormous beings, possibly living in the Misty Mountains."
     },
     {
       "name": "Vampires",
       "color": "#9400D3",
-      "image": "https://i.imgur.com/5O3hgFr.jpeg",
+      "image": "https://i.imgur.com/CTIKYzj.jpeg",
       "description": "Dark, shadowy creatures with a bat-like appearance.",
       "examples": [
         "Thuringwethil"
@@ -155,13 +155,13 @@
     {
       "name": "Barrow-wights",
       "color": "#483D8B",
-      "image": "https://i.imgur.com/7WjDor7.jpeg",
+      "image": "https://i.imgur.com/oeNgemg.jpeg",
       "description": "Undead spirits haunting the Barrow-downs, under the influence of the Witch-king."
     },
     {
       "name": "Huorns",
       "color": "#556B2F",
-      "image": "https://i.imgur.com/uyvpLJI.jpeg",
+      "image": "https://i.imgur.com/7blATzj.jpeg",
       "description": "Trees with some level of sentience, closely related to Ents."
     },
     {
