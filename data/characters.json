@@ -2,6 +2,7 @@
   "species": [
     {
       "name": "Elves",
+      "color": "#A7E4C1",
       "image": "https://i.imgur.com/Q5Ovd24.jpeg",
       "description": "Immortal beings of beauty and wisdom, skilled in arts and magic.",
       "subspecies": [
@@ -14,6 +15,7 @@
     },
     {
       "name": "Men",
+      "color": "#8C6747",
       "image": "https://i.imgur.com/UXj3Pw9.jpeg",
       "description": "Mortal beings, with varied cultures and abilities.",
       "subspecies": [
@@ -27,6 +29,7 @@
     },
     {
       "name": "Dwarves",
+      "color": "#6B4C35",
       "image": "https://i.imgur.com/iwOLaWs.jpeg",
       "description": "Short, stout, and hardy craftsmen known for their skills in mining and smithing.",
       "subspecies": [
@@ -41,7 +44,8 @@
     },
     {
       "name": "Hobbits",
-      "ïmage": "https://i.imgur.com/lMNt4iH.jpeg",
+      "color": "#C8B58F",
+      "image": "https://i.imgur.com/lMNt4iH.jpeg",
       "description": "Small, peaceful folk known for their love of comfort and food.",
       "subspecies": [
         "Harfoots",
@@ -51,6 +55,7 @@
     },
     {
       "name": "Orcs",
+      "color": "#4B3B2B",
       "image": "https://i.imgur.com/4drGLWg.jpeg",
       "description": "Corrupted and twisted beings bred for evil purposes, often serving dark lords.",
       "subspecies": [
@@ -61,11 +66,13 @@
     },
     {
       "name": "Ents",
+      "color": "#3E6B36",
       "image": "https://i.imgur.com/coxMzZS.jpeg",
       "description": "Tree-like guardians of forests, ancient beings with slow thoughts and great strength."
     },
     {
       "name": "Trolls",
+      "color": "#5A5854",
       "image": "https://i.imgur.com/o6B1bSu.jpeg",
       "description": "Large, brutish creatures with great strength but little intelligence.",
       "subspecies": [
@@ -77,17 +84,20 @@
     },
     {
       "name": "Maiar",
-      "image":"https://i.imgur.com/lIIWpgL.jpeg",
+      "color": "#F9F7D0",
+      "image": "https://i.imgur.com/lIIWpgL.jpeg",
       "description": "Powerful spirits of divine origin, often serving the Valar.",
       "subspecies": []
     },
     {
       "name": "Valar",
-      "description": "Deities and stewards of the world, shaping its destiny and natural laws.",
-      "image": "https://i.imgur.com/gP91rCW.jpeg"
+      "color": "#F1D6B8",
+      "image": "https://i.imgur.com/gP91rCW.jpeg",
+      "description": "Deities and stewards of the world, shaping its destiny and natural laws."
     },
     {
       "name": "Dragons",
+      "color": "#D12810",
       "image": "https://i.imgur.com/IIWklyZ.jpeg",
       "description": "Gigantic, intelligent creatures, usually greedy and powerful.",
       "subspecies": [
@@ -97,16 +107,19 @@
     },
     {
       "name": "Eagles",
+      "color": "#D8A756",
       "image": "https://i.imgur.com/idJl7Bs.jpeg",
       "description": "Great, intelligent birds serving as agents of the Valar."
     },
     {
       "name": "Wargs",
+      "color": "#4A3E37",
       "image": "https://i.imgur.com/nbz1jVO.jpeg",
       "description": "Intelligent and evil wolves, often allied with Orcs."
     },
     {
       "name": "Spirits",
+      "color": "#42435D",
       "image": "https://i.imgur.com/fngreoz.jpeg",
       "description": "Incorporeal entities that can haunt, possess, or influence the living.",
       "examples": [
@@ -116,11 +129,13 @@
     },
     {
       "name": "Giants",
+      "color": "#767676",
       "image": "https://i.imgur.com/T5GM6Zw.jpeg",
       "description": "Mysterious and rarely mentioned enormous beings, possibly living in the Misty Mountains."
     },
     {
       "name": "Vampires",
+      "color": "#7D2B35",
       "image": "https://i.imgur.com/5O3hgFr.jpeg",
       "description": "Dark, shadowy creatures with a bat-like appearance.",
       "examples": [
@@ -129,6 +144,7 @@
     },
     {
       "name": "Werewolves",
+      "color": "#5B3C40",
       "image": "https://i.imgur.com/FrZaCwH.jpeg",
       "description": "Monstrous wolves inhabited by malevolent spirits.",
       "examples": [
@@ -138,25 +154,29 @@
     },
     {
       "name": "Barrow-wights",
+      "color": "#42435D",
       "image": "https://i.imgur.com/7WjDor7.jpeg",
       "description": "Undead spirits haunting the Barrow-downs, under the influence of the Witch-king."
     },
     {
       "name": "Huorns",
+      "color": "#2A472B",
       "image": "https://i.imgur.com/uyvpLJI.jpeg",
       "description": "Trees with some level of sentience, closely related to Ents."
     },
     {
       "name": "Nazgûl",
+      "color": "#3A2F28",
       "image": "https://i.imgur.com/9SEoquk.jpeg",
       "description": "Former human kings corrupted by Sauron's rings, now undead wraiths serving him."
     },
     {
       "name": "Fell Beasts",
+      "color": "#303030",
       "image": "https://i.imgur.com/NFhiPBJ.jpeg",
       "description": "Winged, draconic creatures ridden by the Nazgûl."
     }
-  ],
+  ],  
   "characters": [
     {
       "name": "Adanel",
