@@ -55,7 +55,7 @@
     },
     {
       "name": "Orcs",
-      "color": "#4B3B2B",
+      "color": "#7B3D29",
       "image": "https://i.imgur.com/4drGLWg.jpeg",
       "description": "Corrupted and twisted beings bred for evil purposes, often serving dark lords.",
       "subspecies": [
@@ -66,13 +66,13 @@
     },
     {
       "name": "Ents",
-      "color": "#3E6B36",
+      "color": "#3B6E2B",
       "image": "https://i.imgur.com/coxMzZS.jpeg",
       "description": "Tree-like guardians of forests, ancient beings with slow thoughts and great strength."
     },
     {
       "name": "Trolls",
-      "color": "#5A5854",
+      "color": "#8B8580",
       "image": "https://i.imgur.com/o6B1bSu.jpeg",
       "description": "Large, brutish creatures with great strength but little intelligence.",
       "subspecies": [
@@ -84,20 +84,20 @@
     },
     {
       "name": "Maiar",
-      "color": "#F9F7D0",
+      "color": "#FAEAB3",
       "image": "https://i.imgur.com/lIIWpgL.jpeg",
       "description": "Powerful spirits of divine origin, often serving the Valar.",
       "subspecies": []
     },
     {
       "name": "Valar",
-      "color": "#F1D6B8",
+      "color": "#F9D1C7",
       "image": "https://i.imgur.com/gP91rCW.jpeg",
       "description": "Deities and stewards of the world, shaping its destiny and natural laws."
     },
     {
       "name": "Dragons",
-      "color": "#D12810",
+      "color": "#B22222",
       "image": "https://i.imgur.com/IIWklyZ.jpeg",
       "description": "Gigantic, intelligent creatures, usually greedy and powerful.",
       "subspecies": [
@@ -113,13 +113,13 @@
     },
     {
       "name": "Wargs",
-      "color": "#4A3E37",
+      "color": "#53423D",
       "image": "https://i.imgur.com/nbz1jVO.jpeg",
       "description": "Intelligent and evil wolves, often allied with Orcs."
     },
     {
       "name": "Spirits",
-      "color": "#42435D",
+      "color": "#6B6C94",
       "image": "https://i.imgur.com/fngreoz.jpeg",
       "description": "Incorporeal entities that can haunt, possess, or influence the living.",
       "examples": [
@@ -129,13 +129,13 @@
     },
     {
       "name": "Giants",
-      "color": "#767676",
+      "color": "#8A8A8A",
       "image": "https://i.imgur.com/T5GM6Zw.jpeg",
       "description": "Mysterious and rarely mentioned enormous beings, possibly living in the Misty Mountains."
     },
     {
       "name": "Vampires",
-      "color": "#7D2B35",
+      "color": "#7A2B36",
       "image": "https://i.imgur.com/5O3hgFr.jpeg",
       "description": "Dark, shadowy creatures with a bat-like appearance.",
       "examples": [
@@ -144,7 +144,7 @@
     },
     {
       "name": "Werewolves",
-      "color": "#5B3C40",
+      "color": "#5D3B3A",
       "image": "https://i.imgur.com/FrZaCwH.jpeg",
       "description": "Monstrous wolves inhabited by malevolent spirits.",
       "examples": [
@@ -154,25 +154,25 @@
     },
     {
       "name": "Barrow-wights",
-      "color": "#42435D",
+      "color": "#444766",
       "image": "https://i.imgur.com/7WjDor7.jpeg",
       "description": "Undead spirits haunting the Barrow-downs, under the influence of the Witch-king."
     },
     {
       "name": "Huorns",
-      "color": "#2A472B",
+      "color": "#2D4E35",
       "image": "https://i.imgur.com/uyvpLJI.jpeg",
       "description": "Trees with some level of sentience, closely related to Ents."
     },
     {
       "name": "Nazgûl",
-      "color": "#3A2F28",
+      "color": "#2F2C2E",
       "image": "https://i.imgur.com/9SEoquk.jpeg",
       "description": "Former human kings corrupted by Sauron's rings, now undead wraiths serving him."
     },
     {
       "name": "Fell Beasts",
-      "color": "#303030",
+      "color": "#494949",
       "image": "https://i.imgur.com/NFhiPBJ.jpeg",
       "description": "Winged, draconic creatures ridden by the Nazgûl."
     }
