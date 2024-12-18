@@ -1,7 +1,7 @@
 {
   "species": [
     {
-      "name": "Elves",
+      "name": "Elf",
       "color": "#00A36C",
       "image": "https://i.imgur.com/Q5Ovd24.jpeg",
       "description": "Immortal beings of beauty and wisdom, skilled in arts and magic.",
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "name": "Men",
+      "name": "Human",
       "color": "#FF6B35",
       "image": "https://i.imgur.com/UXj3Pw9.jpeg",
       "description": "Mortal beings, with varied cultures and abilities.",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "name": "Dwarves",
+      "name": "Dwarf",
       "color": "#FFB400",
       "image": "https://i.imgur.com/iwOLaWs.jpeg",
       "description": "Short, stout, and hardy craftsmen known for their skills in mining and smithing.",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Hobbits",
+      "name": "Hobbit",
       "color": "#8C1AFF",
       "image": "https://i.imgur.com/lMNt4iH.jpeg",
       "description": "Small, peaceful folk known for their love of comfort and food.",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "Orcs",
+      "name": "Orc",
       "color": "#A80038",
       "image": "https://i.imgur.com/4drGLWg.jpeg",
       "description": "Corrupted and twisted beings bred for evil purposes, often serving dark lords.",
@@ -65,21 +65,21 @@
       ]
     },
     {
-      "name": "Ents",
+      "name": "Ent",
       "color": "#3FA34D",
       "image": "https://i.imgur.com/FAlr1oa.jpeg",
       "description": "Tree-like guardians of forests, ancient beings with slow thoughts and great strength."
     },
     {
-      "name": "Trolls",
+      "name": "Troll",
       "color": "#DA291C",
       "image": "https://i.imgur.com/o6B1bSu.jpeg",
       "description": "Large, brutish creatures with great strength but little intelligence.",
       "subspecies": [
-        "Cave Trolls",
-        "Hill Trolls",
+        "Cave Troll",
+        "Hill Troll",
         "Olog-hai",
-        "Stone Trolls"
+        "Stone Troll"
       ]
     },
     {
@@ -96,7 +96,7 @@
       "description": "Deities and stewards of the world, shaping its destiny and natural laws."
     },
     {
-      "name": "Dragons",
+      "name": "Dragon",
       "color": "#FF4500",
       "image": "https://i.imgur.com/IIWklyZ.jpeg",
       "description": "Gigantic, intelligent creatures, usually greedy and powerful.",
@@ -106,19 +106,20 @@
       ]
     },
     {
-      "name": "Eagles",
+      "name": "Eagle",
+      "subspecies": ["Great Eagle"],
       "color": "#0083CA",
       "image": "https://i.imgur.com/idJl7Bs.jpeg",
       "description": "Great, intelligent birds serving as agents of the Valar."
     },
     {
-      "name": "Wargs",
+      "name": "Warg",
       "color": "#B03060",
       "image": "https://i.imgur.com/nbz1jVO.jpeg",
       "description": "Intelligent and evil wolves, often allied with Orcs."
     },
     {
-      "name": "Spirits",
+      "name": "Spirit",
       "color": "#4B0082",
       "image": "https://i.imgur.com/fngreoz.jpeg",
       "description": "Incorporeal entities that can haunt, possess, or influence the living.",
@@ -128,13 +129,13 @@
       ]
     },
     {
-      "name": "Giants",
+      "name": "Giant",
       "color": "#FF8C00",
       "image": "https://i.imgur.com/Qf6IUoM.jpeg",
       "description": "Mysterious and rarely mentioned enormous beings, possibly living in the Misty Mountains."
     },
     {
-      "name": "Vampires",
+      "name": "Vampire",
       "color": "#9400D3",
       "image": "https://i.imgur.com/CTIKYzj.jpeg",
       "description": "Dark, shadowy creatures with a bat-like appearance.",
@@ -143,7 +144,7 @@
       ]
     },
     {
-      "name": "Werewolves",
+      "name": "Werewolf",
       "color": "#006400",
       "image": "https://i.imgur.com/HBqCrvr.jpeg",
       "description": "Monstrous wolves inhabited by malevolent spirits.",
@@ -171,7 +172,7 @@
       "description": "Former human kings corrupted by Sauron's rings, now undead wraiths serving him."
     },
     {
-      "name": "Fell Beasts",
+      "name": "Fell Beast",
       "color": "#8B0000",
       "image": "https://i.imgur.com/VqMsnB0.jpeg",
       "description": "Winged, draconic creatures ridden by the Nazgûl."
@@ -9996,7 +9997,7 @@
     {
       "name": "Lagduf",
       "wikiUrl": "",
-      "race": "Orcs",
+      "race": "Orc",
       "birth": "NaN",
       "gender": "Male",
       "death": "March ,3019",
@@ -10048,7 +10049,7 @@
     {
       "name": "Penlod",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Male",
       "death": "FA 510",
@@ -10139,7 +10140,7 @@
     {
       "name": "Snaga (Two Towers orc)",
       "wikiUrl": "",
-      "race": "Orcs",
+      "race": "Orc",
       "birth": "NaN",
       "gender": "Male",
       "death": "February 293019",
@@ -10152,7 +10153,7 @@
     {
       "name": "Snaga",
       "wikiUrl": "",
-      "race": "Orcs",
+      "race": "Orc",
       "birth": "NaN",
       "gender": "Male",
       "death": "TA 3019",
@@ -10165,7 +10166,7 @@
     {
       "name": "Smaug",
       "wikiUrl": "",
-      "race": "Dragons",
+      "race": "Dragon",
       "birth": "Unknown, first appeared in ,TA 2770",
       "gender": "Male",
       "death": "November 1 ,TA 2941",
@@ -10217,7 +10218,7 @@
     {
       "name": "Scatha",
       "wikiUrl": "",
-      "race": "Dragons",
+      "race": "Dragon",
       "birth": "NaN",
       "gender": "Male",
       "death": "TA 2000",
@@ -10256,7 +10257,7 @@
     {
       "name": "Salgant",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Male",
       "death": "Fate officially unknown",
@@ -10269,7 +10270,7 @@
     {
       "name": "Saeros",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "YT",
       "gender": "Male",
       "death": "FA 484",
@@ -10321,7 +10322,7 @@
     {
       "name": "Rog",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Male",
       "death": "FA 510",
@@ -10503,7 +10504,7 @@
     {
       "name": "Eluréd and Elurín",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "FA 500",
       "gender": "Male",
       "death": "FA 506",
@@ -10542,7 +10543,7 @@
     {
       "name": "Egalmoth (elf)",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Male",
       "death": "FA 538",
@@ -10555,7 +10556,7 @@
     {
       "name": "Ecthelion of the Fountain",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Male",
       "death": "FA 510",
@@ -10620,7 +10621,7 @@
     {
       "name": "Orcobal",
       "wikiUrl": "",
-      "race": "Orcs",
+      "race": "Orc",
       "birth": "NaN",
       "gender": "Male",
       "death": "FA 510",
@@ -10724,7 +10725,7 @@
     {
       "name": "Draugluin",
       "wikiUrl": "",
-      "race": "Werewolves",
+      "race": "Werewolf",
       "birth": "NaN",
       "gender": "Male",
       "death": "FA 465",
@@ -10763,7 +10764,7 @@
     {
       "name": "Daeron",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "YT",
       "gender": "Male",
       "death": "NaN",
@@ -10828,7 +10829,7 @@
     {
       "name": "Írimë",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "YT",
       "gender": "Female",
       "death": "NaN",
@@ -11023,7 +11024,7 @@
     {
       "name": "Nellas",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Female",
       "death": "NaN",
@@ -11127,7 +11128,7 @@
     {
       "name": "Meneldor",
       "wikiUrl": "",
-      "race": "Eagles",
+      "race": "Eagle",
       "birth": "NaN",
       "gender": "Male",
       "death": "NaN",
@@ -11218,7 +11219,7 @@
     {
       "name": "Gwaihir",
       "wikiUrl": "",
-      "race": "Great Eagles",
+      "race": "Great Eagle",
       "birth": "NaN",
       "gender": "Male",
       "death": "NaN",
@@ -11244,7 +11245,7 @@
     {
       "name": "Great Goblin",
       "wikiUrl": "",
-      "race": "Orcs",
+      "race": "Orc",
       "birth": "NaN",
       "gender": "Male",
       "death": "July ,2941",
@@ -11270,7 +11271,7 @@
     {
       "name": "Gothmog",
       "wikiUrl": "",
-      "race": "Maiar,Balrogs",
+      "race": "Maiar",
       "birth": "Before the creation of ,Arda",
       "gender": "Male",
       "death": "FA 510",
@@ -11283,7 +11284,7 @@
     {
       "name": "Gostir",
       "wikiUrl": "",
-      "race": "Dragons",
+      "race": "",
       "birth": "NaN",
       "gender": "Male",
       "death": "NaN",
@@ -11348,7 +11349,7 @@
     {
       "name": "Glaurung",
       "wikiUrl": "",
-      "race": "Dragons",
+      "race": "Dragon",
       "birth": "Presumably after Morgoth's return to Angband",
       "gender": "Male",
       "death": "FA 501",
@@ -11413,7 +11414,7 @@
     {
       "name": "Carcharoth",
       "wikiUrl": "",
-      "race": "Werewolves",
+      "race": "Werewolf",
       "birth": "Before the Creation of ,Arda",
       "gender": "Male",
       "death": "FA 466",
@@ -11530,7 +11531,7 @@
     {
       "name": "Warg Matriarch",
       "wikiUrl": "",
-      "race": "NaN",
+      "race": "Warg",
       "birth": "NaN",
       "gender": "NaN",
       "death": "NaN",
@@ -11673,7 +11674,7 @@
     {
       "name": "Beleg",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Male",
       "death": "FA 489",
@@ -11686,7 +11687,7 @@
     {
       "name": "Beechbone",
       "wikiUrl": "",
-      "race": "Ents",
+      "race": "Ent",
       "birth": "NaN",
       "gender": "Male",
       "death": "March 3 ,3019",
@@ -11790,7 +11791,7 @@
     {
       "name": "Mablung",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Male",
       "death": "FA 502",
@@ -11868,7 +11869,7 @@
     {
       "name": "Galdor of the Tree",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Male",
       "death": "NaN",
@@ -11881,7 +11882,7 @@
     {
       "name": "Galathil",
       "wikiUrl": "",
-      "race": "Elves",
+      "race": "Elf",
       "birth": "NaN",
       "gender": "Male",
       "death": "NaN",
@@ -11985,7 +11986,7 @@
     {
       "name": "Bregalad",
       "wikiUrl": "",
-      "race": "Ents",
+      "race": "Ent",
       "birth": "TA 2519",
       "gender": "Male",
       "death": "NaN",
@@ -12011,7 +12012,7 @@
     {
       "name": "Tom, Bert, and William",
       "wikiUrl": "",
-      "race": "Stone-trolls",
+      "race": "Stone Troll",
       "birth": "Third Age, or before",
       "gender": "Male",
       "death": "NaN",
@@ -12050,7 +12051,7 @@
     {
       "name": "Thorondor",
       "wikiUrl": "",
-      "race": "Great Eagles",
+      "race": "Great Eagle",
       "birth": "Before the Creation of ,Arda",
       "gender": "Male",
       "death": "Immortal",
@@ -12063,7 +12064,7 @@
     {
       "name": "Azog",
       "wikiUrl": "",
-      "race": "Orcs",
+      "race": "Orc",
       "birth": "NaN",
       "gender": "Male",
       "death": "TA 2799",
@@ -12115,7 +12116,7 @@
     {
       "name": "Ancalagon",
       "wikiUrl": "",
-      "race": "Dragons",
+      "race": "Dragon",
       "birth": "Possibly before the Creation of Arda",
       "gender": "Male",
       "death": "FA 587",
